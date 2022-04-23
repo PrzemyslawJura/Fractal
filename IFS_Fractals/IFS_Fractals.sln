@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFS_Fractals", "IFS_Fractals\IFS_Fractals.csproj", "{0B9E12A2-CB0B-400E-AA54-B7D03B597DE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9E12A2-CB0B-400E-AA54-B7D03B597DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9E12A2-CB0B-400E-AA54-B7D03B597DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9E12A2-CB0B-400E-AA54-B7D03B597DE0}.Debug|x86.ActiveCfg = Debug|x86
+		{0B9E12A2-CB0B-400E-AA54-B7D03B597DE0}.Debug|x86.Build.0 = Debug|x86
+		{0B9E12A2-CB0B-400E-AA54-B7D03B597DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9E12A2-CB0B-400E-AA54-B7D03B597DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B9E12A2-CB0B-400E-AA54-B7D03B597DE0}.Release|x86.ActiveCfg = Release|x86
+		{0B9E12A2-CB0B-400E-AA54-B7D03B597DE0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AFDF341-0802-4FCC-86C9-F07F94F5C93E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\bin\Debug\netcoreapp3.1\IFS_Fractals.exe
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\bin\Debug\netcoreapp3.1\IFS_Fractals.deps.json
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\bin\Debug\netcoreapp3.1\IFS_Fractals.runtimeconfig.json
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\bin\Debug\netcoreapp3.1\IFS_Fractals.runtimeconfig.dev.json
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\bin\Debug\netcoreapp3.1\IFS_Fractals.dll
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\bin\Debug\netcoreapp3.1\IFS_Fractals.pdb
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\obj\Debug\netcoreapp3.1\IFS_Fractals.csproj.AssemblyReference.cache
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\obj\Debug\netcoreapp3.1\IFS_Fractals.Form1.resources
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\obj\Debug\netcoreapp3.1\IFS_Fractals.csproj.GenerateResource.cache
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\obj\Debug\netcoreapp3.1\IFS_Fractals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\obj\Debug\netcoreapp3.1\IFS_Fractals.AssemblyInfoInputs.cache
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\obj\Debug\netcoreapp3.1\IFS_Fractals.AssemblyInfo.cs
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\obj\Debug\netcoreapp3.1\IFS_Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\obj\Debug\netcoreapp3.1\IFS_Fractals.dll
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\obj\Debug\netcoreapp3.1\IFS_Fractals.pdb
+C:\Users\Ghost\Desktop\IFS_Fractals\IFS_Fractals\obj\Debug\netcoreapp3.1\IFS_Fractals.genruntimeconfig.cache

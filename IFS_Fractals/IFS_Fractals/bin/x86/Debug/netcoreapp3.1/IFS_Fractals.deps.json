@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IFS_Fractals/1.0.0": {
+        "runtime": {
+          "IFS_Fractals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IFS_Fractals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
